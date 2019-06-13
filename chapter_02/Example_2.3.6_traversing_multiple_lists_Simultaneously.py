@@ -1,3 +1,7 @@
+
+# Copyright (c) 2019 Cheick Bamba
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 Cdegrees = [-10, -5, 0, 5, 10, 20, 25, 30, 34]
 Fdegrees = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90]
 for i in range(len(Cdegrees)):

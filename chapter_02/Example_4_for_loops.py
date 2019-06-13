@@ -1,3 +1,8 @@
+# Copyright (c) 2019 Cheick Bamba
+#
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
 # using for loop to print out all elements of a loop
 degrees = [0, 10, 20, 40, 100]
 for c in degrees:

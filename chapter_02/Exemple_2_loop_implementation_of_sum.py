@@ -1,3 +1,7 @@
+# Copyright (c) 2019 Cheick Bamba
+#
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 # sin(x) = x - x^3/3! + x^5/5! - x^7/7! + .....
 x = 1.2  # assisgn some value
 N = 25  # maximum power in sum
