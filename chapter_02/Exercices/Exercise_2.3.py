@@ -1,10 +1,15 @@
-# Copyright (c) 2019 Cheikh Bamba
+# Copyright (c) 2019 Cheick Bamba
 #
 # Distributed under the Boost Software License, Version 1.0. (See accompanying
 # file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 
-v0 = 5
-g = 9.81
-t = 0.6
-y = v0 * t - 0.5 * g * t ** 2
-print(y)
+n =1
+
+while n <= 20:
+    """generate odd numbers"""
+    print(n)
+    n = n + 2
+
+
+
+
